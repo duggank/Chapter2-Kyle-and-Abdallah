@@ -1,0 +1,4 @@
+C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Eggs\bin\Debug\Eggs.exe
+C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Eggs\bin\Debug\Eggs.pdb
+C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Eggs\obj\x86\Debug\Eggs.exe
+C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Eggs\obj\x86\Debug\Eggs.pdb

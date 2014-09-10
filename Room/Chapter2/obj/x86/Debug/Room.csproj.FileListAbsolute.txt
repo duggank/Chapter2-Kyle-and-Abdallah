@@ -1,0 +1,8 @@
+C:\Users\Kyle_2\AppData\Local\Temporary Projects\Chapter2\bin\Debug\Chapter2.exe
+C:\Users\Kyle_2\AppData\Local\Temporary Projects\Chapter2\bin\Debug\Chapter2.pdb
+C:\Users\Kyle_2\AppData\Local\Temporary Projects\Chapter2\obj\x86\Debug\Chapter2.exe
+C:\Users\Kyle_2\AppData\Local\Temporary Projects\Chapter2\obj\x86\Debug\Chapter2.pdb
+C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Chapter2\bin\Debug\Chapter2.exe
+C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Chapter2\bin\Debug\Chapter2.pdb
+C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Chapter2\obj\x86\Debug\Chapter2.exe
+C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Chapter2\obj\x86\Debug\Chapter2.pdb
