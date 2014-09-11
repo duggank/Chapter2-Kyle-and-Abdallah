@@ -2,3 +2,7 @@ C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Carpet\bin\Debu
 C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Carpet\bin\Debug\Carpet.pdb
 C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Carpet\obj\x86\Debug\Carpet.exe
 C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Carpet\obj\x86\Debug\Carpet.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Carpet\bin\Debug\Carpet.exe
+C:\Users\eahscs\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Carpet\bin\Debug\Carpet.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Carpet\obj\x86\Debug\Carpet.exe
+C:\Users\eahscs\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\Carpet\obj\x86\Debug\Carpet.pdb

@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C0B5022B-9D06-4514-B743-5DBD9FF54D7E}</ProjectGuid>
+    <ProjectGuid>{3654C9C1-A6FA-4024-A1A2-A996BD7557F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Payroll</RootNamespace>

@@ -2,3 +2,7 @@ C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\HoursAndMinutes
 C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\HoursAndMinutes\bin\Debug\HoursAndMinutes.pdb
 C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.exe
 C:\Users\Kyle_2\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\HoursAndMinutes\bin\Debug\HoursAndMinutes.exe
+C:\Users\eahscs\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\HoursAndMinutes\bin\Debug\HoursAndMinutes.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.exe
+C:\Users\eahscs\Documents\GitHub\Chapter2-Kyle-and-Abdallah\Room\HoursAndMinutes\obj\x86\Debug\HoursAndMinutes.pdb
